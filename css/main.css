@@ -1,0 +1,10 @@
+.textcontainer {
+	border-style: solid;
+	width: 400px;
+	height: 100px;
+}
+
+.title {
+	height: 20px;
+	border-bottom-style: dotted;
+}
